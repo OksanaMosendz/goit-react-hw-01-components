@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Profile/Profile.module.css"],"names":[],"mappings":"AAAA,wBACE,wBACF,CAEA,sBACE,YAAa,CACb,wBACF,CAEA,4BACE,qBACF","file":"main.6b577d08.chunk.css","sourcesContent":[".profile {\n  background-color: #e7ecf2;\n}\n\n.stats {\n  display: flex;\n  background-color: #f3f6f9;\n}\n\n.description {\n  background-color: white;\n}\n"]}
