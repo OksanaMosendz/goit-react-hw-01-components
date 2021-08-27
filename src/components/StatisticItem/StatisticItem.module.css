@@ -1,0 +1,8 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: 1px solid lightsteelblue;
+  width: 100%;
+  background-color: rgb(246, 246, 250);
+}
