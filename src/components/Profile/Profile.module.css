@@ -1,0 +1,12 @@
+.profile {
+  background-color: #e7ecf2;
+}
+
+.stats {
+  display: flex;
+  background-color: #f3f6f9;
+}
+
+.description {
+  background-color: white;
+}
