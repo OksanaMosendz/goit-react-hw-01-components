@@ -8,10 +8,12 @@ import friends from 'data/friends.json';
 import statisticalData from 'data/statistical-data.json';
 import transactions from 'data/transactions.json';
 
+import css from './App.module.css';
+
 export const App = () => {
   return (
     <>
-      <div>
+      <div className={css.App}>
         <Profile
           name={user.name}
           tag={user.tag}

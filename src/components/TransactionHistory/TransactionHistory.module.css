@@ -2,4 +2,22 @@
   border: 1px solid lightsteelblue;
   border-radius: 5px;
   box-shadow: 5px 3px 3px rgb(142, 145, 148);
+  border-collapse: collapse;
+  width: 600px;
+  text-align: center;
+  margin: 0;
+
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+}
+
+th,
+td {
+  border: 1px solid grey;
+  padding: 10px;
+}
+
+thead {
+  background-color: rgb(66, 202, 243);
 }
